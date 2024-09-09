@@ -1,2 +1,2 @@
 # Background-Color-Changing-automatic
-By using HTML, CSS and JS
+By using HTML and JS
